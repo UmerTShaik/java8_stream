@@ -1,0 +1,22 @@
+
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ñ×©’8ã— ®Î1
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(“İ¶Öøÿÿÿÿ8ã— ®Î1
+J
+java:S1604"(Make this anonymous inner class a lambda(¾˜°Ôøÿÿÿÿ8ä— ®Î1
+T
+java:S3958"2Refactor the code so this stream pipeline is used.(¾˜°Ôøÿÿÿÿ8øˆ¤®Î1
+E
+java:S1481"(Remove this unused "dto" local variable.(Ïéóà8ë— ®Î1
+G	java:S106"+Replace this use of System.out by a logger.(ˆç¦ 8ë— ®Î1
+G	java:S106&"+Replace this use of System.out by a logger.(Íºíã8â‰¥®Î1
+o
+java:S6204("RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ÛÊ†»8€şª®Î1
+R
+java:S1611)"5Remove the parentheses around the "userDto" parameter(ÀÒšØ8ª²¤®Î1
+I
+java:S1602)",Remove useless curly braces around statement(ÀÒšØ8â‰¥®Î1
+]
+java:S1612)"@Replace this lambda with method reference 'System.out::println'.(ÀÒšØ8”«¥®Î1
+G	java:S106*"+Replace this use of System.out by a logger.(ëØâÔ8ìñ¦®Î1

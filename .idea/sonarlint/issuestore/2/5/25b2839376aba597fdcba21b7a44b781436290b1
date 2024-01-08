@@ -1,0 +1,12 @@
+
+L
+java:S3740"/Provide the parametrized type for this generic.(¬•—8θ“²Ξ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ϊ›©8ι“²Ξ1
+G	java:S106"+Replace this use of System.out by a logger.(­ –8μ“²Ξ1
+L	java:S106"+Replace this use of System.out by a logger.(πτ¶μÿÿÿÿÿ8μ“²Ξ1
+L	java:S106"+Replace this use of System.out by a logger.(τ—χ‹ψÿÿÿÿ8ν“²Ξ1
+G	java:S106"+Replace this use of System.out by a logger.(¦µϊΗ8ν“²Ξ1
+L	java:S106%"+Replace this use of System.out by a logger.(ζ–έ€ÿÿÿÿÿ8΅Π“²Ξ1
+L	java:S106&"+Replace this use of System.out by a logger.(Δ©‚ÿÿÿÿÿ8΅Π“²Ξ1
+P
+java:S1128".Remove this unused import 'java.util.HashMap'.(™”€ωÿÿÿÿ8ξ“²Ξ1

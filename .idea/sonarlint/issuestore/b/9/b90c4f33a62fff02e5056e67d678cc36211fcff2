@@ -1,0 +1,15 @@
+
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(íÆ½Ìùÿÿÿÿ8ò¢‚¬Î1
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(­î‹’ýÿÿÿÿ8ò¢‚¬Î1
+L	java:S106"+Replace this use of System.out by a logger.(üõ©”þÿÿÿÿ8ý¢‚¬Î1
+L	java:S106"+Replace this use of System.out by a logger.(•ÄõÒÿÿÿÿÿ8ý¢‚¬Î1
+n
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(Æ•¢68ý¢‚¬Î1
+Q
+java:S1611"5Remove the parentheses around the "product" parameter(Æ•¢68ý¢‚¬Î1
+F	java:S106"+Replace this use of System.out by a logger.(Æ•¢68€‹„¬Î1
+X	java:S125"<This block of commented-out lines of code should be removed.(å”Ç8Ç¸ƒ¬Î1
+J
+java:S1128"(Remove this unused import 'javax.swing'.(Ìí¿Üüÿÿÿÿ8ÁÌ„¬Î1

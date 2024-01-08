@@ -1,0 +1,12 @@
+
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÅÉµ®şÿÿÿÿ8ëûî®Î1
+L	java:S106"+Replace this use of System.out by a logger.(²…Ù·øÿÿÿÿ8ğûî®Î1
+L	java:S106"+Replace this use of System.out by a logger.(¹¥Ééûÿÿÿÿ8Ä”ğ®Î1
+L	java:S106"+Replace this use of System.out by a logger.(¬Û˜ßúÿÿÿÿ8·ãó®Î1
+M
+java:S1611"0Remove the parentheses around the "p1" parameter(ñ”²è8œ’ó®Î1
+F	java:S106"+Replace this use of System.out by a logger.(§‘8ëÍô®Î1
+G	java:S106"+Replace this use of System.out by a logger.(ğ¼š8¨¸õ®Î1
+L	java:S106"+Replace this use of System.out by a logger.(¬Û˜ßúÿÿÿÿ8˜±ö®Î1
+L	java:S106"+Replace this use of System.out by a logger.(Ú¾¬ûÿÿÿÿ8«Ë÷®Î1

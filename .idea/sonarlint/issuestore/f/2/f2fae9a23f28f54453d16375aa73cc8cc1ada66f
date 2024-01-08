@@ -1,0 +1,18 @@
+
+{
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(—¤Îşÿÿÿÿ8ı½†¯Î1
+L	java:S106"+Replace this use of System.out by a logger.(²…Ù·øÿÿÿÿ8¾†¯Î1
+L	java:S106"+Replace this use of System.out by a logger.(¹¥Ééûÿÿÿÿ8¾†¯Î1
+L	java:S106"+Replace this use of System.out by a logger.(¬Û˜ßúÿÿÿÿ8¾†¯Î1
+b
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(‹şÑİşÿÿÿÿ8¾†¯Î1
+L	java:S106"+Replace this use of System.out by a logger.(‹şÑİşÿÿÿÿ8¾†¯Î1
+L	java:S106"+Replace this use of System.out by a logger.(¬Û˜ßúÿÿÿÿ8ú‹‡¯Î1
+b
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(¼ÜœŠıÿÿÿÿ8ú‹‡¯Î1
+L	java:S106"+Replace this use of System.out by a logger.(¼ÜœŠıÿÿÿÿ8úÔ‡¯Î1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ú‹‡¯Î1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ú‹‡¯Î1
